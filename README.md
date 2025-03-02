@@ -2,7 +2,7 @@
 
 一个优雅的 AI 提示词管理工具，帮助用户快速查找和使用各类 AI 提示词模板。
 
-![DeepSeek 提示词管理器](screenshot.png) PromptBox
+![DeepSeek 提示词管理器](favicon.ico) PromptBox
 
 ## 功能特点
 
@@ -30,7 +30,7 @@
 
 一个优雅的 AI 提示词管理工具，帮助用户快速查找和使用各类 AI 提示词模板。
 
-![DeepSeek 提示词管理器](screenshot.png)
+![DeepSeek 提示词管理器](favicon.ico)
 
 ## 功能特点
 
