@@ -23,7 +23,7 @@
 
 1. 安装依赖：
 
-我来帮您编写一个 README.md 文件，介绍这个 DeepSeek 提示词应用。
+ DeepSeek 提示词应用。
 
 ```markdown:README.md
 # DeepSeek 提示词管理器
